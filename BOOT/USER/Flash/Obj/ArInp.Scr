@@ -1,0 +1,19 @@
+--create .\Flash\Obj\STMFLASH.lib
+.\flash\obj\main.o
+.\flash\obj\stm32f10x_it.o
+.\flash\obj\system_stm32f10x.o
+.\flash\obj\boot.o
+.\flash\obj\stmflash.o
+.\flash\obj\delay.o
+.\flash\obj\sys.o
+.\flash\obj\usart.o
+.\flash\obj\core_cm3.o
+.\flash\obj\startup_stm32f10x_hd.o
+.\flash\obj\stm32f10x_gpio.o
+.\flash\obj\stm32f10x_rcc.o
+.\flash\obj\stm32f10x_usart.o
+.\flash\obj\misc.o
+.\flash\obj\stm32f10x_flash.o
+.\flash\obj\stm32f10x_adc.o
+.\flash\obj\stm32f10x_exti.o
+.\flash\obj\stm32f10x_tim.o
